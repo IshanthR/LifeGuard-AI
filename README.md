@@ -1,15 +1,8 @@
-# LifeGuard AI 🧠
+# LifeGuard AI
 
-An AI-powered health prediction system built with Streamlit.
+LifeGuard AI is a Streamlit-based health monitoring app for predicting Diabetes, Heart Attack, and Eye Sight issues using historical medical data and daily habits.
 
-## Features
-- Login & Register
-- Predict Heart, Diabetes, Eyesight issues
-- Doctor suggestions
-- Graph-based result visualization
-- Real-time model training
+## How to Run
 
-## Run Project
-```bash
-pip install streamlit pandas scikit-learn joblib matplotlib
-streamlit run app.py
+1. Clone the repository
+2. Install dependencies:
